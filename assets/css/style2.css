@@ -68,7 +68,9 @@ dd::after {content: " "; display: block; clear: both; margin-bottom: 15px;}
     Add a CSS ruleset targeting the footer to accomplish the following:
     - right align the text in the footer
 */
-
+footer{
+    text-align: right;
+}
 
 
 /* 
@@ -77,3 +79,10 @@ dd::after {content: " "; display: block; clear: both; margin-bottom: 15px;}
 */
 
 
+#starters{
+    border: 2px black solid;
+}
+#desserts{
+    border: 2px black solid;
+
+}
